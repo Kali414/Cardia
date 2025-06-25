@@ -176,9 +176,9 @@ This project is licensed under the terms of the MIT License. See the [LICENSE](L
 
 ---
 
-## Contact
-For questions or contributions, contact: [kalicharansahoo91@gmail.com , sumandalai0509@gmail.com, anmolagrawal67415@gmail.com, radhamadhabpattnaik23@gmail.com]
-
+## Contribution
+For contributions, suggestions, or questions, feel free to reach out to:
+- kalicharansahoo91@gmail.com  
 
 ---
 
