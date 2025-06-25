@@ -1,10 +1,16 @@
 <!-- Model training repo - https://github.com/Kali414/DRDO_PROJECT -->
 
-# Webcam-Based Heart Rate Detection Using Deep Learning
+# CARDIAA – Camera-Assisted Real-time Detection of Instantaneous Arterial Activity
+
+## Webcam-Based Heart Rate Detection Using Deep Learning
 
 ## Overview
 
-This project implements a non-contact heart rate detection system using a standard webcam and deep learning techniques. By leveraging facial video data, the model estimates heart rate (BPM) without requiring any physical sensors. The system is trained and evaluated on the UBFC-RPPG dataset, utilizing a CNN-LSTM architecture to process temporal facial features extracted from video frames.
+CARDIAA is a real-time, non-contact heart rate monitoring system that uses a standard webcam and advanced deep learning techniques to estimate a person’s heart rate (in BPM) by analyzing facial video streams.
+
+Instead of relying on physical sensors or wearable devices, the system leverages subtle changes in skin tone and facial features captured on camera to infer arterial activity. This makes it suitable for applications in telemedicine, fitness monitoring, and continuous health tracking.
+
+
 
 ---
 
