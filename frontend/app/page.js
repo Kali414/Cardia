@@ -25,7 +25,9 @@ ChartJS.register(
   Legend
 );
 
-const socket = io("http://localhost:5000");
+// const socket = io("http://localhost:5000");
+const socket = io("https://cardia-2len.onrender.com");
+
 
 export default function Home() {
   const videoRef = useRef(null);
