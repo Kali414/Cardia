@@ -11,7 +11,6 @@ This project implements a non-contact heart rate detection system using a standa
 ## Table of Contents
 
 - [Features](#features)
-- [Project Structure](#project-structure)
 - [Dataset](#dataset)
 - [Methodology](#methodology)
 - [Model Architecture](#model-architecture)
