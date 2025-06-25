@@ -4,8 +4,11 @@ import numpy as np
 import cv2
 import base64
 from tensorflow.keras.models import load_model
+from flask_cors import CORS
 
+# Flask setup
 app = Flask(__name__)
+CORS(app)
 socketio = SocketIO(app, cors_allowed_origins="*")
 
 model = load_model("bpm_model_v2.keras")
