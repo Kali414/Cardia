@@ -101,8 +101,8 @@ Make sure you have the following installed:
 #### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/Sumandalai/heartRate-website
-cd heartRate-website
+git clone https://github.com/Kali414/Cardia.git
+cd Cardia
 ```
 
 #### 2. **Start the Backend**
@@ -127,7 +127,7 @@ Backend will run at: **http://localhost:5000**
 Open a new terminal window (keep backend running)
 
 ```bash
-cd heartRate-website/frontend
+cd Cardia/frontend
 
 # Install frontend dependencies
 npm install
